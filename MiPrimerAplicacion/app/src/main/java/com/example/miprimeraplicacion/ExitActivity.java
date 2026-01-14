@@ -28,4 +28,11 @@ public class ExitActivity extends AppCompatActivity {
             System.exit(0); // Sale de la aplicación
         });
     }
+
+    public int resta( int a, int b){
+        return a - b ;
+
+
+
+    }
 }
